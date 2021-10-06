@@ -14,3 +14,7 @@ Docker image for AWS CLI, also source for the AWS CLI GitHub Action.
     AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
     AWS_DEFAULT_REGION: "us-east-1"
 ```
+
+## Notes
+
+Originally forked from https://github.com/ItsKarma/aws-cli
