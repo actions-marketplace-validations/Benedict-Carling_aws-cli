@@ -6,7 +6,7 @@ Docker image for AWS CLI, also source for the AWS CLI GitHub Action.
 
 ```
 - name: S3 Sync
-  uses: Benedict-Carling/aws-cli@v2.1.29
+  uses: Benedict-Carling/aws-cli@v1.20.55
   with:
     args: s3 sync --delete --acl public-read localdir/ s3://remote-bucket/
   env:
