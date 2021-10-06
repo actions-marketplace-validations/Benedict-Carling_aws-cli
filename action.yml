@@ -1,4 +1,4 @@
-name: 'AWS CLI v2'
+name: 'AWS CLI v2 Docker'
 description: 'GitHub Action for AWS CLI'
 author: Benedict-Carling
 branding:
