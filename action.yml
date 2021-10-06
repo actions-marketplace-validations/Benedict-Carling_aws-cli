@@ -1,6 +1,6 @@
-name: 'AWS CLI'
+name: 'AWS CLI v2'
 description: 'GitHub Action for AWS CLI'
-author: ItsKarma
+author: Benedict-Carling
 branding:
   icon: 'cloud'
   color: 'orange'
